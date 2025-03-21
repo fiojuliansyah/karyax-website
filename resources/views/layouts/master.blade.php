@@ -73,8 +73,8 @@
                         <div>
                             <h5 class="font-semibold mb-5">Kontak</h5>
                             <p class="text-default-500/80 text-sm mb-3">Jakarta, Indonesia</p>
-                            <p class="text-default-500/80 text-sm mb-3">support@karyax.com</p>
-                            <p class="text-default-500/80 text-sm">+62 812-3456-7890</p>
+                            <p class="text-default-500/80 text-sm mb-3">hello@karyax.com</p>
+                            <p class="text-default-500/80 text-sm">+62 852-8378-9313</p>
                         </div>
             
                         <!-- Jam Operasional -->
