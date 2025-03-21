@@ -1,17 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 
 <head>
     <meta charset="utf-8" />
     <title>Karyax | Solusi HRIS & Productivity Management Outsourcing Anda</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="A fully responsive Tailwind CSS Multipurpose agency, application, business, clean, creative, cryptocurrency, it solutions, startup, career, blog, modern, creative, multipurpose, portfolio, saas, software, tailwind css, etc." name="description" />
-    <meta content="coderthemes" name="author" />
 
-    <!-- Theme favicon -->
+    <!-- Basic Meta Tags -->
+    <meta name="description" content="Karyax adalah solusi HRIS dan manajemen produktivitas outsourcing terlengkap untuk perusahaan modern. Kelola absensi, payroll, PPh 21, rekrutmen, dan lainnya dalam satu platform." />
+    <meta name="keywords" content="HRIS, payroll, PPh 21, absensi online, rekrutmen digital, software HR Indonesia, outsourcing HR, aplikasi HR, Karyax" />
+    <meta name="author" content="Karyax Team" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Karyax | Solusi HRIS & Productivity Management Outsourcing Anda" />
+    <meta property="og:description" content="Platform terintegrasi untuk pengelolaan SDM, absensi, payroll, dan PPh 21. Didesain untuk efisiensi perusahaan Anda." />
+    <meta property="og:image" content="https://www.karyax.com/front-page/assets/images/og-image.png" />
+    <meta property="og:url" content="https://www.karyax.com/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Karyax | Solusi HRIS & Productivity Management Outsourcing Anda" />
+    <meta name="twitter:description" content="Kelola HR, payroll, dan produktivitas tim Anda dengan Karyax." />
+    <meta name="twitter:image" content="https://www.karyax.com/front-page/assets/images/og-image.png" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://www.karyax.com/" />
+
+    <!-- Favicon -->
     <link rel="shortcut icon" href="/front-page/assets/images/favicon.png">
 
-    <!--Swiper slider css-->
+    <!-- Swiper slider css -->
     <link href="/front-page/assets/libs/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css">
 
     <!-- Animation on Scroll css -->
@@ -23,6 +43,7 @@
     <!-- Head.js -->
     <script src="/front-page/assets/js/head.js"></script>
 </head>
+
 
 <body class="text-default-800">
 
