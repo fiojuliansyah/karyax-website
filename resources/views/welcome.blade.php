@@ -300,7 +300,7 @@
                     </div>
         
                     <button class="flex items-center justify-center mx-auto">
-                        <a href="#"
+                        <a href="{{ route('discuss') }}"
                             class="bg-primary flex items-center text-white rounded-lg text-sm font-semibold flex-none hover:shadow-lg  hover:shadow-primary/30 focus:shadow-none focus:outline focus:outline-primary/40 px-6 py-3">Daftar
                             Sekarang <i class="i-fa6-solid-arrow-right ms-2"></i> </a>
                     </button>
