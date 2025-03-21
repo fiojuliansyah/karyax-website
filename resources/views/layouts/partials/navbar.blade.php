@@ -52,7 +52,7 @@
 
                 <!-- Download Button -->
                 <div class="hidden lg:flex items-center ms-3">
-                    <a href="#" target="_blank"
+                    <a href="https://wa.me/6285283789313?text=Halo%20saya%20ingin%20mencoba%20app%20karyax,%20Terimakasih" target="_blank"
                         class="bg-primary text-white px-4 py-2 rounded inline-flex items-center text-sm">Coba Gratis !</a>
                 </div>
 

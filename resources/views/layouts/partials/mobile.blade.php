@@ -51,7 +51,7 @@
 
                 <!-- Mobile Menu Download Button (Footer) -->
                 <div class="p-6 flex items-center justify-center">
-                    <a href="#" target="_blank"
+                    <a href="https://wa.me/6285283789313?text=Halo%20saya%20ingin%20mencoba%20app%20karyax,%20Terimakasih" target="_blank"
                         class="bg-primary w-full text-white p-3 rounded flex items-center justify-center text-sm">Coba Gratis !</a>
                 </div>
             </div>

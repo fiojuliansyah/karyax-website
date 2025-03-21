@@ -19,7 +19,7 @@
                                 </h1>
                                 <p class="sm:text-lg text-default-500">Tingkatkan manajemen SDM dan produktivitas perusahaan Anda dengan
                                     solusi HRIS & outsourcing yang dirancang dan dikembangkan oleh profesional kami.</p>
-                                <div class="flex gap-3 mt-16">
+                                <div class="flex flex-wrap gap-3 mt-16">
                                     <a href="#feature" for="Email"
                                         class="bg-black flex items-center text-white rounded-lg text-sm font-semibold flex-none hover:shadow-lg  hover:shadow-primary/30 focus:shadow-none focus:outline focus:outline-primary/40 px-6 py-3">Pelajari Selengkapnya</a>
                                     <a href="#" for="Email"
@@ -56,34 +56,19 @@
                                     data-aos="fade-left" data-aos-duration="1000">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <div class="absolute inset-0 flex items-center justify-center">
-                                                <a href="#"
-                                                    class="sm:h-14 h-10 sm:w-14 w-10 rounded-full bg-green-500 flex items-center justify-center">
-                                                    <i class="i-tabler-player-play-filled size-5 text-white"></i>
-                                                </a>
-                                            </div>
+                                            
                                             <img src="/front-page/assets/images/hero/saas1.png" alt="saas1"
                                                 class="w-full h-full rounded-md">
                                         </div>
         
                                         <div class="swiper-slide">
-                                            <div class="absolute inset-0 flex items-center justify-center">
-                                                <a href="#"
-                                                    class="sm:h-14 h-10 sm:w-14 w-10 rounded-full bg-green-500 flex items-center justify-center">
-                                                    <i class="i-tabler-player-play-filled size-5 text-white"></i>
-                                                </a>
-                                            </div>
+                                            
                                             <img src="/front-page/assets/images/hero/saas2.png" alt="saas2"
                                                 class="w-full h-full rounded-md">
                                         </div>
         
                                         <div class="swiper-slide">
-                                            <div class="absolute inset-0 flex items-center justify-center">
-                                                <a href="#"
-                                                    class="sm:h-14 h-10 sm:w-14 w-10 rounded-full bg-green-500 flex items-center justify-center">
-                                                    <i class="i-tabler-player-play-filled size-5 text-white"></i>
-                                                </a>
-                                            </div>
+                                            
                                             <img src="/front-page/assets/images/hero/saas3.png" alt="saas3"
                                                 class="w-full h-full rounded-md">
                                         </div>
@@ -250,7 +235,7 @@
                                     </div>
                                 </div>
         
-                                <img src="/front-page/assets/images/hero/saas2.png" alt="saas2" data-aos="fade-left"
+                                <img src="/front-page/assets/images/hero/saas3.png" alt="saas2" data-aos="fade-left"
                                     data-aos-duration="400">
                             </div>
         
